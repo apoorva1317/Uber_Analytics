@@ -4,12 +4,12 @@
 This project focuses on analyzing Uber's operational metrics using **Power BI**. The dashboard provides insights into **trip distribution, revenue trends, shift performance, and payment preferences** to help optimize Uber's operations and enhance decision-making.
 
 ## Key Features & Insights
-### Trip Volume Analysis**
+### Trip Volume Analysis
 - Total Rides: **116.7K**
 - Identifies peak demand locations and high-traffic areas.
 - Helps allocate drivers efficiently to reduce wait times.
 
-### Revenue Trends**
+### Revenue Trends
 - Total Fare Collected: **$1.8M**
 - Monitors revenue fluctuations across different time periods.
 - Helps optimize surge pricing and promotional strategies.
@@ -19,15 +19,15 @@ This project focuses on analyzing Uber's operational metrics using **Power BI**.
 - Identifies whether more drivers are needed for night shifts.
 - Helps in balancing **driver incentives and availability**.
 
-### Payment Preferences**
+### Payment Preferences
 - Breakdown of **cash vs. digital payments**.
 - Helps Uber strategize on encouraging digital payments.
 
-### Trip Distance & Fare Analysis**
+### Trip Distance & Fare Analysis
 - Ensures pricing transparency and efficiency.
 - Identifies any **fare inconsistencies or underutilized routes**.
 
-### Decomposition Tree Analysis**
+### Decomposition Tree Analysis
 - AI-powered insights into what **factors impact trip volume & revenue**.
 - Helps break down metrics by **shift, location, and payment method**.
 
